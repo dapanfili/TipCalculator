@@ -7,6 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AA0B1C0A2303B2530001450E /* Pic1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0B1C092303B2530001450E /* Pic1.jpg */; };
+		AA0B1C0C2303B29A0001450E /* Pic4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0B1C0B2303B29A0001450E /* Pic4.jpg */; };
+		AA0B1C0E2303B29F0001450E /* Pic2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0B1C0D2303B29F0001450E /* Pic2.jpg */; };
+		AA0B1C192303B6400001450E /* Easy Tip Calc80.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0B1C0F2303B63F0001450E /* Easy Tip Calc80.jpg */; };
+		AA0B1C1A2303B6400001450E /* Easy Tip Calc87.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0B1C102303B63F0001450E /* Easy Tip Calc87.jpg */; };
+		AA0B1C1B2303B6400001450E /* Easy Tip Calc60.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0B1C112303B63F0001450E /* Easy Tip Calc60.jpg */; };
+		AA0B1C1C2303B6400001450E /* Easy Tip Calc1024.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0B1C122303B63F0001450E /* Easy Tip Calc1024.jpg */; };
+		AA0B1C1D2303B6400001450E /* Easy Tip Calc152.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0B1C132303B63F0001450E /* Easy Tip Calc152.jpg */; };
+		AA0B1C1E2303B6400001450E /* Easy Tip Calc180.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0B1C142303B6400001450E /* Easy Tip Calc180.jpg */; };
+		AA0B1C1F2303B6400001450E /* Easy Tip Calc120.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0B1C152303B6400001450E /* Easy Tip Calc120.jpg */; };
+		AA0B1C212303B6400001450E /* Easy Tip Calc40.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0B1C172303B6400001450E /* Easy Tip Calc40.jpg */; };
+		AA0B1C222303B6400001450E /* Easy Tip Calc167.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0B1C182303B6400001450E /* Easy Tip Calc167.jpg */; };
+		AA0B1C262303B6D50001450E /* Easy Tip Calc58.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0B1C252303B6D50001450E /* Easy Tip Calc58.jpg */; };
+		AA0B1C2A2303BC450001450E /* Easy Tip Calc20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0B1C272303BC450001450E /* Easy Tip Calc20.jpg */; };
+		AA0B1C2B2303BC450001450E /* Easy Tip Calc29.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0B1C282303BC450001450E /* Easy Tip Calc29.jpg */; };
+		AA0B1C2C2303BC450001450E /* Easy Tip Calc76.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA0B1C292303BC450001450E /* Easy Tip Calc76.jpg */; };
 		AA3CFDDD221BB808006DD0FE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3CFDDC221BB808006DD0FE /* AppDelegate.swift */; };
 		AA3CFDDF221BB808006DD0FE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3CFDDE221BB808006DD0FE /* ViewController.swift */; };
 		AA3CFDE2221BB808006DD0FE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA3CFDE0221BB808006DD0FE /* Main.storyboard */; };
@@ -14,8 +30,6 @@
 		AA3CFDE7221BB809006DD0FE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA3CFDE5221BB809006DD0FE /* LaunchScreen.storyboard */; };
 		AA3CFDF2221BB80A006DD0FE /* Tip_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3CFDF1221BB80A006DD0FE /* Tip_CalculatorTests.swift */; };
 		AA3CFDFD221BB80A006DD0FE /* Tip_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3CFDFC221BB80A006DD0FE /* Tip_CalculatorUITests.swift */; };
-		AA3CFE12221BC908006DD0FE /* Pic1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA3CFE0C221BC17D006DD0FE /* Pic1.jpg */; };
-		AA3CFE13221BC908006DD0FE /* Pic2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA3CFE0D221BC180006DD0FE /* Pic2.jpg */; };
 		AA3CFE14221BC908006DD0FE /* Pic3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA3CFE0E221BC181006DD0FE /* Pic3.jpg */; };
 		AA835CA9221BE6D0001565AD /* tipCalc40.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA835CA6221BE6D0001565AD /* tipCalc40.jpg */; };
 		AA835CAA221BE6D0001565AD /* tipCalc120.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA835CA7221BE6D0001565AD /* tipCalc120.jpg */; };
@@ -45,6 +59,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AA0B1C092303B2530001450E /* Pic1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pic1.jpg; sourceTree = "<group>"; };
+		AA0B1C0B2303B29A0001450E /* Pic4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pic4.jpg; sourceTree = "<group>"; };
+		AA0B1C0D2303B29F0001450E /* Pic2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pic2.jpg; sourceTree = "<group>"; };
+		AA0B1C0F2303B63F0001450E /* Easy Tip Calc80.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Easy Tip Calc80.jpg"; sourceTree = "<group>"; };
+		AA0B1C102303B63F0001450E /* Easy Tip Calc87.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Easy Tip Calc87.jpg"; sourceTree = "<group>"; };
+		AA0B1C112303B63F0001450E /* Easy Tip Calc60.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Easy Tip Calc60.jpg"; sourceTree = "<group>"; };
+		AA0B1C122303B63F0001450E /* Easy Tip Calc1024.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Easy Tip Calc1024.jpg"; sourceTree = "<group>"; };
+		AA0B1C132303B63F0001450E /* Easy Tip Calc152.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Easy Tip Calc152.jpg"; sourceTree = "<group>"; };
+		AA0B1C142303B6400001450E /* Easy Tip Calc180.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Easy Tip Calc180.jpg"; sourceTree = "<group>"; };
+		AA0B1C152303B6400001450E /* Easy Tip Calc120.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Easy Tip Calc120.jpg"; sourceTree = "<group>"; };
+		AA0B1C172303B6400001450E /* Easy Tip Calc40.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Easy Tip Calc40.jpg"; sourceTree = "<group>"; };
+		AA0B1C182303B6400001450E /* Easy Tip Calc167.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Easy Tip Calc167.jpg"; sourceTree = "<group>"; };
+		AA0B1C252303B6D50001450E /* Easy Tip Calc58.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Easy Tip Calc58.jpg"; path = "../../Tip Calc Images/Easy Tip Calc58.jpg"; sourceTree = "<group>"; };
+		AA0B1C272303BC450001450E /* Easy Tip Calc20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Easy Tip Calc20.jpg"; sourceTree = "<group>"; };
+		AA0B1C282303BC450001450E /* Easy Tip Calc29.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Easy Tip Calc29.jpg"; sourceTree = "<group>"; };
+		AA0B1C292303BC450001450E /* Easy Tip Calc76.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Easy Tip Calc76.jpg"; sourceTree = "<group>"; };
 		AA3CFDD9221BB808006DD0FE /* Tip Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tip Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA3CFDDC221BB808006DD0FE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AA3CFDDE221BB808006DD0FE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,8 +88,6 @@
 		AA3CFDF8221BB80A006DD0FE /* Tip CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tip CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA3CFDFC221BB80A006DD0FE /* Tip_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorUITests.swift; sourceTree = "<group>"; };
 		AA3CFDFE221BB80A006DD0FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AA3CFE0C221BC17D006DD0FE /* Pic1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pic1.jpg; sourceTree = "<group>"; };
-		AA3CFE0D221BC180006DD0FE /* Pic2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pic2.jpg; sourceTree = "<group>"; };
 		AA3CFE0E221BC181006DD0FE /* Pic3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pic3.jpg; sourceTree = "<group>"; };
 		AA835CA6221BE6D0001565AD /* tipCalc40.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tipCalc40.jpg; sourceTree = "<group>"; };
 		AA835CA7221BE6D0001565AD /* tipCalc120.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tipCalc120.jpg; sourceTree = "<group>"; };
@@ -124,9 +152,23 @@
 				AA3CFDE0221BB808006DD0FE /* Main.storyboard */,
 				AA3CFDE3221BB809006DD0FE /* Assets.xcassets */,
 				AA3CFDE5221BB809006DD0FE /* LaunchScreen.storyboard */,
-				AA3CFE0C221BC17D006DD0FE /* Pic1.jpg */,
-				AA3CFE0D221BC180006DD0FE /* Pic2.jpg */,
+				AA0B1C092303B2530001450E /* Pic1.jpg */,
+				AA0B1C0D2303B29F0001450E /* Pic2.jpg */,
+				AA0B1C0B2303B29A0001450E /* Pic4.jpg */,
 				AA3CFE0E221BC181006DD0FE /* Pic3.jpg */,
+				AA0B1C172303B6400001450E /* Easy Tip Calc40.jpg */,
+				AA0B1C272303BC450001450E /* Easy Tip Calc20.jpg */,
+				AA0B1C282303BC450001450E /* Easy Tip Calc29.jpg */,
+				AA0B1C292303BC450001450E /* Easy Tip Calc76.jpg */,
+				AA0B1C252303B6D50001450E /* Easy Tip Calc58.jpg */,
+				AA0B1C112303B63F0001450E /* Easy Tip Calc60.jpg */,
+				AA0B1C0F2303B63F0001450E /* Easy Tip Calc80.jpg */,
+				AA0B1C102303B63F0001450E /* Easy Tip Calc87.jpg */,
+				AA0B1C152303B6400001450E /* Easy Tip Calc120.jpg */,
+				AA0B1C132303B63F0001450E /* Easy Tip Calc152.jpg */,
+				AA0B1C182303B6400001450E /* Easy Tip Calc167.jpg */,
+				AA0B1C142303B6400001450E /* Easy Tip Calc180.jpg */,
+				AA0B1C122303B63F0001450E /* Easy Tip Calc1024.jpg */,
 				AA835CA6221BE6D0001565AD /* tipCalc40.jpg */,
 				AA835CA8221BE6D0001565AD /* tipCalc58.jpg */,
 				AA835CAC221BE736001565AD /* tipCalc80.jpg */,
@@ -262,19 +304,33 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA0B1C212303B6400001450E /* Easy Tip Calc40.jpg in Resources */,
+				AA0B1C2C2303BC450001450E /* Easy Tip Calc76.jpg in Resources */,
+				AA0B1C1B2303B6400001450E /* Easy Tip Calc60.jpg in Resources */,
 				AA835CAA221BE6D0001565AD /* tipCalc120.jpg in Resources */,
-				AA3CFE12221BC908006DD0FE /* Pic1.jpg in Resources */,
 				AA3CFDE7221BB809006DD0FE /* LaunchScreen.storyboard in Resources */,
+				AA0B1C0E2303B29F0001450E /* Pic2.jpg in Resources */,
 				AA3CFE14221BC908006DD0FE /* Pic3.jpg in Resources */,
 				AA835CB1221BE7AB001565AD /* tipCalc120.jpg in Resources */,
-				AA3CFE13221BC908006DD0FE /* Pic2.jpg in Resources */,
+				AA0B1C1F2303B6400001450E /* Easy Tip Calc120.jpg in Resources */,
+				AA0B1C2A2303BC450001450E /* Easy Tip Calc20.jpg in Resources */,
 				AA835CB2221BE7AB001565AD /* tipCalc60.jpg in Resources */,
 				AA3CFDE4221BB809006DD0FE /* Assets.xcassets in Resources */,
 				AA835CB3221BE7AB001565AD /* tipCalc180.jpg in Resources */,
+				AA0B1C262303B6D50001450E /* Easy Tip Calc58.jpg in Resources */,
+				AA0B1C1D2303B6400001450E /* Easy Tip Calc152.jpg in Resources */,
+				AA0B1C0C2303B29A0001450E /* Pic4.jpg in Resources */,
 				AA835CAD221BE736001565AD /* tipCalc80.jpg in Resources */,
 				AA835CAB221BE6D0001565AD /* tipCalc58.jpg in Resources */,
+				AA0B1C1A2303B6400001450E /* Easy Tip Calc87.jpg in Resources */,
 				AA835CB5221BE7BC001565AD /* tipCalc87.jpg in Resources */,
+				AA0B1C1C2303B6400001450E /* Easy Tip Calc1024.jpg in Resources */,
+				AA0B1C192303B6400001450E /* Easy Tip Calc80.jpg in Resources */,
+				AA0B1C2B2303BC450001450E /* Easy Tip Calc29.jpg in Resources */,
+				AA0B1C222303B6400001450E /* Easy Tip Calc167.jpg in Resources */,
 				AA835CA9221BE6D0001565AD /* tipCalc40.jpg in Resources */,
+				AA0B1C1E2303B6400001450E /* Easy Tip Calc180.jpg in Resources */,
+				AA0B1C0A2303B2530001450E /* Pic1.jpg in Resources */,
 				AA3CFDE2221BB808006DD0FE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -479,6 +535,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2ENQU78AL4;
 				INFOPLIST_FILE = "Tip Calculator/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -497,6 +554,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2ENQU78AL4;
 				INFOPLIST_FILE = "Tip Calculator/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
